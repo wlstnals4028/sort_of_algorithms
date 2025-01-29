@@ -1,1 +1,1 @@
-# the-sexiest-algorithms
+# sort_of_algorithms
